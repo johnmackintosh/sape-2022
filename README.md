@@ -1,6 +1,8 @@
 # sape-2022
 2022 small area population estimates (datazone levels) aggregated up to higher geography levels.
 
+Contains public sector information licensed under the Open Government Licence v3.0.
+
 
 data from NRS
 https://www.nrscotland.gov.uk/publications/small-area-population-estimates-mid-2022/
